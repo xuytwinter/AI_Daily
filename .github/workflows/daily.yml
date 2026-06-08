@@ -2,8 +2,10 @@ name: Daily AI News
 
 on:
   schedule:
-    # 06:00 UTC == 14:00 Asia/Shanghai (Beijing). GitHub may delay 5-15+ min.
-    - cron: "0 6 * * *"
+    # 06:17 UTC == 14:17 Asia/Shanghai (Beijing).
+    # Intentionally off-the-hour: GitHub Actions frequently delays or drops
+    # cron jobs scheduled at :00 due to top-of-hour congestion on free runners.
+    - cron: "17 6 * * *"
   workflow_dispatch:
     inputs:
       days:
