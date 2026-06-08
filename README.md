@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-08** | [AI日报：微信开放平台发布AI生态接入指引；月之暗面再融资20亿美元；ChatG…](daily/2026-06-08/zh.md) | [AI Daily: WeChat Open Platform Releases …](daily/2026-06-08/en.md) | [AI日報：微信開放平臺發佈AI生態接入指引；月之暗面再融資20億美元；ChatG…](daily/2026-06-08/tw.md) | [AI日報：微信オープンプラットフォームがAIエコシステム接続指針を発表；Moon…](daily/2026-06-08/ja.md) |
 | **2026-06-06** | [AI日报：阿里上线首个官方大模型NBA Chat； Ideogram4.0开源发…](daily/2026-06-06/zh.md) | [AI Daily: Alibaba Launches Its First Off…](daily/2026-06-06/en.md) | [AI日報：阿里上線首個官方大模型NBA Chat； Ideogram4.0開源發…](daily/2026-06-06/tw.md) | [AI日報：アリババが初の公式大規模モデルNBA Chatをリリース；Ideogr…](daily/2026-06-06/ja.md) |
 | **2026-06-05** | [AI日报：快手App上线AI购物助手；Kimi Work开启内测；微信互联多厂商…](daily/2026-06-05/zh.md) | [AI Daily: Kuaishou App Launches AI Shopp…](daily/2026-06-05/en.md) | [AI日報：快手App上線AI購物助手；Kimi Work開啓內測；微信互聯多廠商…](daily/2026-06-05/tw.md) | [AI日報：快手アプリにAIショッピングアシスタントが登場；Kimi Workのテ…](daily/2026-06-05/ja.md) |
 | **2026-06-04** | [AI日报：千问全面开放第三方Agent与Skill；字节开源统一框架 Berni…](daily/2026-06-04/zh.md) | [AI Daily: Qwen Fully Opens Third-Party A…](daily/2026-06-04/en.md) | [AI日報：千問全面開放第三方Agent與Skill；字節開源統一框架 Berni…](daily/2026-06-04/tw.md) | [AI日報：千問が第三者のエージェントおよびスキルを全面的に開放；バイトダンスが統…](daily/2026-06-04/ja.md) |
