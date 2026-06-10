@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-10** | [AI日报：美图秀秀入局微信AI生态：千问发布全周期高考志愿填报Agent；美团 …](daily/2026-06-10/zh.md) | [AI Daily: Meitu ShowShow Enters WeChat A…](daily/2026-06-10/en.md) | [AI日報：美圖秀秀入局微信AI生態：千問發佈全週期高考志願填報Agent；美團 …](daily/2026-06-10/tw.md) | [AI日報：ミートゥーシューシュで微信のAIエコシステムに参入。Qwenは全期間の…](daily/2026-06-10/ja.md) |
 | **2026-06-09** | [AI日报：Kimi Code开源编码代理升级；苹果正面回应 iOS 27 AI …](daily/2026-06-09/zh.md) | [AI Daily: Kimi Code Open Source Coding A…](daily/2026-06-09/en.md) | [AI日報：Kimi Code開源編碼代理升級；蘋果正面迴應 iOS 27 AI …](daily/2026-06-09/tw.md) | [AI日報：Kimi Codeオープンソースコードエージェントのアップグレード；ア…](daily/2026-06-09/ja.md) |
 | **2026-06-08** | [AI日报：微信开放平台发布AI生态接入指引；月之暗面再融资20亿美元；ChatG…](daily/2026-06-08/zh.md) | [AI Daily: WeChat Open Platform Releases …](daily/2026-06-08/en.md) | [AI日報：微信開放平臺發佈AI生態接入指引；月之暗面再融資20億美元；ChatG…](daily/2026-06-08/tw.md) | [AI日報：微信オープンプラットフォームがAIエコシステム接続指針を発表；Moon…](daily/2026-06-08/ja.md) |
 | **2026-06-06** | [AI日报：阿里上线首个官方大模型NBA Chat； Ideogram4.0开源发…](daily/2026-06-06/zh.md) | [AI Daily: Alibaba Launches Its First Off…](daily/2026-06-06/en.md) | [AI日報：阿里上線首個官方大模型NBA Chat； Ideogram4.0開源發…](daily/2026-06-06/tw.md) | [AI日報：アリババが初の公式大規模モデルNBA Chatをリリース；Ideogr…](daily/2026-06-06/ja.md) |
