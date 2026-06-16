@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-16** | [AI日报：字节发布Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/zh.md) | [AI Daily: ByteDance Launches Seedance 2.…](daily/2026-06-16/en.md) | [AI日報：字節發佈Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/tw.md) | [AI日報：バイツーがSeedance 2.0 Miniを発表；Kimi 2.7 …](daily/2026-06-16/ja.md) |
 | **2026-06-15** | [AI日报：豆包上线任务模式；元宝正式打通ima公开知识库；智谱GLM-5. 2 …](daily/2026-06-15/zh.md) | [AI Daily: DouBao Launches Task Mode; Yua…](daily/2026-06-15/en.md) | [AI日報：豆包上線任務模式；元寶正式打通ima公開知識庫；智譜GLM-5. 2 …](daily/2026-06-15/tw.md) | [AI日報：ドウパオがタスクモードをリリース；ヤオバオがIMA公開知識ベースと統合…](daily/2026-06-15/ja.md) |
 | **2026-06-13** | [AI日报：高德问店上线AI能力开放调用；大众点评严打AI灌水评论；Kimi将发行…](daily/2026-06-13/zh.md) | [AI Daily: Gaode Wenda Launches AI Capabi…](daily/2026-06-13/en.md) | [AI日報：高德問店上線AI能力開放調用；大衆點評嚴打AI灌水評論；Kimi將發行…](daily/2026-06-13/tw.md) | [AI日報：高徳問店にAI機能の開放呼び出し機能が登場；大衆評論はAIによるインフ…](daily/2026-06-13/ja.md) |
 | **2026-06-12** | [AI日报：高德问店上线AI能力开放调用；大众点评严打AI灌水评论；Kimi将发行…](daily/2026-06-12/zh.md) | [AI Daily: Gaode Wenda Launches AI Capabi…](daily/2026-06-12/en.md) | [AI日報：高德問店上線AI能力開放調用；大衆點評嚴打AI灌水評論；Kimi將發行…](daily/2026-06-12/tw.md) | [AI日報：高徳問店にAI機能の開放呼び出し機能が登場；大衆評論はAIによるインフ…](daily/2026-06-12/ja.md) |
