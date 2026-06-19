@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-19** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-19/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-19/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-19/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-19/ja.md) |
 | **2026-06-18** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-18/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-18/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-18/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-18/ja.md) |
 | **2026-06-17** | [AI日报：微信支付推出“AI专属卡“；小米龙虾MiMo Claw正式版发布;智谱…](daily/2026-06-17/zh.md) | [AI Daily: WeChat Pay Launches AI Dedicat…](daily/2026-06-17/en.md) | [AI日報：微信支付推出“AI專屬卡“；小米龍蝦MiMo Claw正式版發佈;智譜…](daily/2026-06-17/tw.md) | [AI日報：微信支払いがAI専用カードを発表；小米のロブタMiMo Claw正式版…](daily/2026-06-17/ja.md) |
 | **2026-06-16** | [AI日报：字节发布Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/zh.md) | [AI Daily: ByteDance Launches Seedance 2.…](daily/2026-06-16/en.md) | [AI日報：字節發佈Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/tw.md) | [AI日報：バイツーがSeedance 2.0 Miniを発表；Kimi 2.7 …](daily/2026-06-16/ja.md) |
