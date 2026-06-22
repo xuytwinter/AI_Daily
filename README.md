@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-22** | [AI日报：阿里发布HappyHorse 1.1；字节豆包灰测网约车服务；三星12…](daily/2026-06-22/zh.md) | [AI Daily: Alibaba Launches HappyHorse 1.…](daily/2026-06-22/en.md) | [AI日報：阿里發佈HappyHorse 1.1；字節豆包灰測網約車服務；三星12…](daily/2026-06-22/tw.md) | [AI日報：アリババがHappyHorse 1.1を発表；字節跳動のドウボーがタク…](daily/2026-06-22/ja.md) |
 | **2026-06-19** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-19/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-19/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-19/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-19/ja.md) |
 | **2026-06-18** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-18/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-18/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-18/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-18/ja.md) |
 | **2026-06-17** | [AI日报：微信支付推出“AI专属卡“；小米龙虾MiMo Claw正式版发布;智谱…](daily/2026-06-17/zh.md) | [AI Daily: WeChat Pay Launches AI Dedicat…](daily/2026-06-17/en.md) | [AI日報：微信支付推出“AI專屬卡“；小米龍蝦MiMo Claw正式版發佈;智譜…](daily/2026-06-17/tw.md) | [AI日報：微信支払いがAI専用カードを発表；小米のロブタMiMo Claw正式版…](daily/2026-06-17/ja.md) |
