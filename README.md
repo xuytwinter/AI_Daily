@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-26** | [AI日报：苹果Xcode 26.6正式发布；美团“小店有AI”行动落地北京；Op…](daily/2026-06-26/zh.md) | [AI Daily: Apple Xcode 26.6 Released Offi…](daily/2026-06-26/en.md) | [AI日報：蘋果Xcode 26.6正式發佈；美團“小店有AI”行動落地北京；Op…](daily/2026-06-26/tw.md) | [AI日報：アップルXcode 26.6が正式リリース；メイドゥー・ショップにAI…](daily/2026-06-26/ja.md) |
 | **2026-06-25** | [AI日报：iOS 27支持自由切换ChatGPT；百度文心网站全面扩容；Goog…](daily/2026-06-25/zh.md) | [AI Daily: iOS 27 Supports Free Switching…](daily/2026-06-25/en.md) | [AI日報：iOS 27支持自由切換ChatGPT；百度文心網站全面擴容；Goog…](daily/2026-06-25/tw.md) | [AI日報：iOS 27がChatGPTの自由な切り替えをサポート；バイドゥー文心…](daily/2026-06-25/ja.md) |
 | **2026-06-24** | [AI日报：豆包音频生成模型1.0发布；企业微信内测AI Agent大圆；Curs…](daily/2026-06-24/zh.md) | [AI Daily: DouBao Audio Generation Model …](daily/2026-06-24/en.md) | [AI日報：豆包音頻生成模型1.0發佈；企業微信內測AI Agent大圓；Curs…](daily/2026-06-24/tw.md) | [AI日報：ドウバオ音声生成モデル1.0公開；企業WeChatでAIエージェントの…](daily/2026-06-24/ja.md) |
 | **2026-06-23** | [AI日报：火山引擎发布豆包Seedance2.5等模型；生数Vidu Q3上线华…](daily/2026-06-23/zh.md) | [AI Daily: Volcano Engine launches Doubao…](daily/2026-06-23/en.md) | [AI日報：火山引擎發佈豆包Seedance2.5等模型；生數Vidu Q3上線華…](daily/2026-06-23/tw.md) | [AI日報：ボルカノエンジンがドウバオSeedance2.5などモデルを公開；シャ…](daily/2026-06-23/ja.md) |
