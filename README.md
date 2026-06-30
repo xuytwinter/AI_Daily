@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-06-30** | [AI日报：美团发布LongCat-2.0；小红书 RedKnot 推理引擎开源；…](daily/2026-06-30/zh.md) | [AI Daily: Meituan Releases LongCat-2.0; …](daily/2026-06-30/en.md) | [AI日報：美團發佈LongCat-2.0；小紅書 RedKnot 推理引擎開源；…](daily/2026-06-30/tw.md) | [AI日報：美团がLongCat-2.0を発表；小紅書のRedKnot推論エンジン…](daily/2026-06-30/ja.md) |
 | **2026-06-29** | — | [AI Daily: DouBao Tests Social Features; …](daily/2026-06-29/en.md) | [AI日報：豆包內測社交功能；高德內測“袋馬”入局AI編程；新浪VibeThink…](daily/2026-06-29/tw.md) | [AI日報：ドウバオがソーシャル機能のテストを開始；高徳が袋馬（マース）をAIプロ…](daily/2026-06-29/ja.md) |
 | **2026-06-27** | [AI日报：苹果Xcode 26.6正式发布；美团“小店有AI”行动落地北京；Op…](daily/2026-06-27/zh.md) | [AI Daily: Apple Xcode 26.6 Released Offi…](daily/2026-06-27/en.md) | [AI日報：蘋果Xcode 26.6正式發佈；美團“小店有AI”行動落地北京；Op…](daily/2026-06-27/tw.md) | [AI日報：アップルXcode 26.6が正式リリース；メイドゥー・ショップにAI…](daily/2026-06-27/ja.md) |
 | **2026-06-26** | [AI日报：苹果Xcode 26.6正式发布；美团“小店有AI”行动落地北京；Op…](daily/2026-06-26/zh.md) | [AI Daily: Apple Xcode 26.6 Released Offi…](daily/2026-06-26/en.md) | [AI日報：蘋果Xcode 26.6正式發佈；美團“小店有AI”行動落地北京；Op…](daily/2026-06-26/tw.md) | [AI日報：アップルXcode 26.6が正式リリース；メイドゥー・ショップにAI…](daily/2026-06-26/ja.md) |
