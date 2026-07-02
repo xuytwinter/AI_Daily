@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-02** | [AI日报：可灵AI将完成30亿美元融资；支付宝AI生活助理“阿宝”正式公测；Ki…](daily/2026-07-02/zh.md) | [AI Daily: Kler AI Completes $3 Billion F…](daily/2026-07-02/en.md) | [AI日報：可靈AI將完成30億美元融資；支付寶AI生活助理“阿寶”正式公測；Ki…](daily/2026-07-02/tw.md) | [AI日報：クレアAIが30億ドルの資金調達を完了；支付宝のAIライフアシスタント…](daily/2026-07-02/ja.md) |
 | **2026-07-01** | [AI日报：谷歌推新图片模型Nano Banana 2 Lite；Claude S…](daily/2026-07-01/zh.md) | [AI Daily: Google Launches New Image Mode…](daily/2026-07-01/en.md) | [AI日報：谷歌推新圖片模型Nano Banana 2 Lite；Claude S…](daily/2026-07-01/tw.md) | [AIニュース：グーグルが新画像モデル「Nano Banana 2 Lite」を発…](daily/2026-07-01/ja.md) |
 | **2026-06-30** | [AI日报：美团发布LongCat-2.0；小红书 RedKnot 推理引擎开源；…](daily/2026-06-30/zh.md) | [AI Daily: Meituan Releases LongCat-2.0; …](daily/2026-06-30/en.md) | [AI日報：美團發佈LongCat-2.0；小紅書 RedKnot 推理引擎開源；…](daily/2026-06-30/tw.md) | [AI日報：美团がLongCat-2.0を発表；小紅書のRedKnot推論エンジン…](daily/2026-06-30/ja.md) |
 | **2026-06-29** | — | [AI Daily: DouBao Tests Social Features; …](daily/2026-06-29/en.md) | [AI日報：豆包內測社交功能；高德內測“袋馬”入局AI編程；新浪VibeThink…](daily/2026-06-29/tw.md) | [AI日報：ドウバオがソーシャル機能のテストを開始；高徳が袋馬（マース）をAIプロ…](daily/2026-06-29/ja.md) |
