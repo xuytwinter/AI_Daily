@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-06** | [AI日报：豆包、千问下线AI拟人化功能；腾讯混元Hy3发布；Gemini3.5 …](daily/2026-07-06/zh.md) | [AI Daily: DouBao and Qianwen Discontinue…](daily/2026-07-06/en.md) | [AI日報：豆包、千問下線AI擬人化功能；騰訊混元Hy3發佈；Gemini3.5 …](daily/2026-07-06/tw.md) | [AI日報：ドウボー、チンウェンがAIキャラクター化機能を終了；テンセント・混元H…](daily/2026-07-06/ja.md) |
 | **2026-07-04** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-04/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-04/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-04/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-04/ja.md) |
 | **2026-07-03** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-03/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-03/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-03/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-03/ja.md) |
 | **2026-07-02** | [AI日报：可灵AI将完成30亿美元融资；支付宝AI生活助理“阿宝”正式公测；Ki…](daily/2026-07-02/zh.md) | [AI Daily: Kler AI Completes $3 Billion F…](daily/2026-07-02/en.md) | [AI日報：可靈AI將完成30億美元融資；支付寶AI生活助理“阿寶”正式公測；Ki…](daily/2026-07-02/tw.md) | [AI日報：クレアAIが30億ドルの資金調達を完了；支付宝のAIライフアシスタント…](daily/2026-07-02/ja.md) |
