@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-07** | [AI日报：Claude Code更新v2.1.202版本；支付宝AI开放平台开启…](daily/2026-07-07/zh.md) | [AI Daily: Claude Code Updates to Version…](daily/2026-07-07/en.md) | [AI日報：Claude Code更新v2.1.202版本；支付寶AI開放平臺開啓…](daily/2026-07-07/tw.md) | [AI日報：Claude Codeがバージョン2.1.202にアップデート；支付宝…](daily/2026-07-07/ja.md) |
 | **2026-07-06** | [AI日报：豆包、千问下线AI拟人化功能；腾讯混元Hy3发布；Gemini3.5 …](daily/2026-07-06/zh.md) | [AI Daily: DouBao and Qianwen Discontinue…](daily/2026-07-06/en.md) | [AI日報：豆包、千問下線AI擬人化功能；騰訊混元Hy3發佈；Gemini3.5 …](daily/2026-07-06/tw.md) | [AI日報：ドウボー、チンウェンがAIキャラクター化機能を終了；テンセント・混元H…](daily/2026-07-06/ja.md) |
 | **2026-07-04** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-04/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-04/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-04/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-04/ja.md) |
 | **2026-07-03** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-03/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-03/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-03/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-03/ja.md) |
