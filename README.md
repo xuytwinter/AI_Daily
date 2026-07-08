@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-08** | [AI日报：Claude Cowork登陆网页和手机端；美国放行GPT-5.6；M…](daily/2026-07-08/zh.md) | [AI Daily: Claude Cowork Launches on Web …](daily/2026-07-08/en.md) | [AI日報：Claude Cowork登陸網頁和手機端；美國放行GPT-5.6；M…](daily/2026-07-08/tw.md) | [AI日報：Claude Coworkがウェブとモバイル端末に登場；米国がGPT-…](daily/2026-07-08/ja.md) |
 | **2026-07-07** | [AI日报：Claude Code更新v2.1.202版本；支付宝AI开放平台开启…](daily/2026-07-07/zh.md) | [AI Daily: Claude Code Updates to Version…](daily/2026-07-07/en.md) | [AI日報：Claude Code更新v2.1.202版本；支付寶AI開放平臺開啓…](daily/2026-07-07/tw.md) | [AI日報：Claude Codeがバージョン2.1.202にアップデート；支付宝…](daily/2026-07-07/ja.md) |
 | **2026-07-06** | [AI日报：豆包、千问下线AI拟人化功能；腾讯混元Hy3发布；Gemini3.5 …](daily/2026-07-06/zh.md) | [AI Daily: DouBao and Qianwen Discontinue…](daily/2026-07-06/en.md) | [AI日報：豆包、千問下線AI擬人化功能；騰訊混元Hy3發佈；Gemini3.5 …](daily/2026-07-06/tw.md) | [AI日報：ドウボー、チンウェンがAIキャラクター化機能を終了；テンセント・混元H…](daily/2026-07-06/ja.md) |
 | **2026-07-04** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-04/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-04/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-04/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-04/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-05** | [AI日报：快手App上线AI购物助手；Kimi Work开启内测；微信互联多厂商…](daily/2026-06-05/zh.md) | [AI Daily: Kuaishou App Launches AI Shopp…](daily/2026-06-05/en.md) | [AI日報：快手App上線AI購物助手；Kimi Work開啓內測；微信互聯多廠商…](daily/2026-06-05/tw.md) | [AI日報：快手アプリにAIショッピングアシスタントが登場；Kimi Workのテ…](daily/2026-06-05/ja.md) |
 | **2026-06-04** | [AI日报：千问全面开放第三方Agent与Skill；字节开源统一框架 Berni…](daily/2026-06-04/zh.md) | [AI Daily: Qwen Fully Opens Third-Party A…](daily/2026-06-04/en.md) | [AI日報：千問全面開放第三方Agent與Skill；字節開源統一框架 Berni…](daily/2026-06-04/tw.md) | [AI日報：千問が第三者のエージェントおよびスキルを全面的に開放；バイトダンスが統…](daily/2026-06-04/ja.md) |
 | **2026-06-03** | [AI日报：扣子3.0正式上线；豆包预计6月下旬上线付费版本；Krea 2 LoR…](daily/2026-06-03/zh.md) | [AI Daily: Koutu 3.0 Officially Released;…](daily/2026-06-03/en.md) | [AI日報：釦子3.0正式上線；豆包預計6月下旬上線付費版本；Krea 2 LoR…](daily/2026-06-03/tw.md) | [AI日報：クーリー3.0が正式リリース；トウバオは6月下旬に有料版をリリース予定…](daily/2026-06-03/ja.md) |
-| **2026-06-02** | [AI日报：MiniMax发布M3 大模型；英伟达物理大模型Cosmos3发布；小…](daily/2026-06-02/zh.md) | [AI Daily: MiniMax Launches M3 Large Mode…](daily/2026-06-02/en.md) | [AI日報：MiniMax發佈M3 大模型；英偉達物理大模型Cosmos3發佈；小…](daily/2026-06-02/tw.md) | [AI日報：MiniMaxがM3大モデルを発表；NVIDIAの物理的大モデルCos…](daily/2026-06-02/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
