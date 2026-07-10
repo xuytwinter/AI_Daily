@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-10** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-10/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-10/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-10/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-10/ja.md) |
 | **2026-07-09** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-09/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-09/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-09/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-09/ja.md) |
 | **2026-07-08** | [AI日报：Claude Cowork登陆网页和手机端；美国放行GPT-5.6；M…](daily/2026-07-08/zh.md) | [AI Daily: Claude Cowork Launches on Web …](daily/2026-07-08/en.md) | [AI日報：Claude Cowork登陸網頁和手機端；美國放行GPT-5.6；M…](daily/2026-07-08/tw.md) | [AI日報：Claude Coworkがウェブとモバイル端末に登場；米国がGPT-…](daily/2026-07-08/ja.md) |
 | **2026-07-07** | [AI日报：Claude Code更新v2.1.202版本；支付宝AI开放平台开启…](daily/2026-07-07/zh.md) | [AI Daily: Claude Code Updates to Version…](daily/2026-07-07/en.md) | [AI日報：Claude Code更新v2.1.202版本；支付寶AI開放平臺開啓…](daily/2026-07-07/tw.md) | [AI日報：Claude Codeがバージョン2.1.202にアップデート；支付宝…](daily/2026-07-07/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-08** | [AI日报：微信开放平台发布AI生态接入指引；月之暗面再融资20亿美元；ChatG…](daily/2026-06-08/zh.md) | [AI Daily: WeChat Open Platform Releases …](daily/2026-06-08/en.md) | [AI日報：微信開放平臺發佈AI生態接入指引；月之暗面再融資20億美元；ChatG…](daily/2026-06-08/tw.md) | [AI日報：微信オープンプラットフォームがAIエコシステム接続指針を発表；Moon…](daily/2026-06-08/ja.md) |
 | **2026-06-06** | [AI日报：阿里上线首个官方大模型NBA Chat； Ideogram4.0开源发…](daily/2026-06-06/zh.md) | [AI Daily: Alibaba Launches Its First Off…](daily/2026-06-06/en.md) | [AI日報：阿里上線首個官方大模型NBA Chat； Ideogram4.0開源發…](daily/2026-06-06/tw.md) | [AI日報：アリババが初の公式大規模モデルNBA Chatをリリース；Ideogr…](daily/2026-06-06/ja.md) |
 | **2026-06-05** | [AI日报：快手App上线AI购物助手；Kimi Work开启内测；微信互联多厂商…](daily/2026-06-05/zh.md) | [AI Daily: Kuaishou App Launches AI Shopp…](daily/2026-06-05/en.md) | [AI日報：快手App上線AI購物助手；Kimi Work開啓內測；微信互聯多廠商…](daily/2026-06-05/tw.md) | [AI日報：快手アプリにAIショッピングアシスタントが登場；Kimi Workのテ…](daily/2026-06-05/ja.md) |
-| **2026-06-04** | [AI日报：千问全面开放第三方Agent与Skill；字节开源统一框架 Berni…](daily/2026-06-04/zh.md) | [AI Daily: Qwen Fully Opens Third-Party A…](daily/2026-06-04/en.md) | [AI日報：千問全面開放第三方Agent與Skill；字節開源統一框架 Berni…](daily/2026-06-04/tw.md) | [AI日報：千問が第三者のエージェントおよびスキルを全面的に開放；バイトダンスが統…](daily/2026-06-04/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
