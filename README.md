@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-15** | [AI日报：豆包千问同日下线智能体功能；GPT-5.6Sol被曝自主删除用户数据库…](daily/2026-07-15/zh.md) | [AI Daily: DouBao and QianWen Discontinue…](daily/2026-07-15/en.md) | [AI日報：豆包千問同日下線智能體功能；GPT-5.6Sol被曝自主刪除用戶數據庫…](daily/2026-07-15/tw.md) | [AI日報：ドウボー・ワンウェンが同日にスマートエージェント機能を終了；GPT-5…](daily/2026-07-15/ja.md) |
 | **2026-07-14** | [AI日报：混元发布HyOCR-1.5；PixVerse完成4.39亿美元融资；商…](daily/2026-07-14/zh.md) | [AI Daily: Hengyuan Releases HyOCR-1.5; P…](daily/2026-07-14/en.md) | [AI日報：混元發佈HyOCR-1.5；PixVerse完成4.39億美元融資；商…](daily/2026-07-14/tw.md) | [AI日報：フンユアンがHyOCR-1.5をリリース；PixVerseが4億390…](daily/2026-07-14/ja.md) |
 | **2026-07-13** | [AI日报：抖音电商将豆包纳入抖店结算序列;Claude Fable5访问权限延长…](daily/2026-07-13/zh.md) | [AI Daily: Douyin E-commerce Integrates D…](daily/2026-07-13/en.md) | [AI日報：抖音電商將豆包納入抖店結算序列;Claude Fable5訪問權限延長…](daily/2026-07-13/tw.md) | [AIニュース：抖音电商は豆包をドットストアの決済フローに組み込み；Claude …](daily/2026-07-13/ja.md) |
 | **2026-07-10** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-10/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-10/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-10/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-10/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-11** | [AI日报：小米开源AI编程助手MiMo Code；京东MALL首批人形机器人上岗…](daily/2026-06-11/zh.md) | [AI Daily: Xiaomi Opensources AI Coding A…](daily/2026-06-11/en.md) | [AI日報：小米開源AI編程助手MiMo Code；京東MALL首批人形機器人上崗…](daily/2026-06-11/tw.md) | [AI日報：小米がAIプログラミングアシスタントMiMo Codeをオープンソース…](daily/2026-06-11/ja.md) |
 | **2026-06-10** | [AI日报：美图秀秀入局微信AI生态：千问发布全周期高考志愿填报Agent；美团 …](daily/2026-06-10/zh.md) | [AI Daily: Meitu ShowShow Enters WeChat A…](daily/2026-06-10/en.md) | [AI日報：美圖秀秀入局微信AI生態：千問發佈全週期高考志願填報Agent；美團 …](daily/2026-06-10/tw.md) | [AI日報：ミートゥーシューシュで微信のAIエコシステムに参入。Qwenは全期間の…](daily/2026-06-10/ja.md) |
 | **2026-06-09** | [AI日报：Kimi Code开源编码代理升级；苹果正面回应 iOS 27 AI …](daily/2026-06-09/zh.md) | [AI Daily: Kimi Code Open Source Coding A…](daily/2026-06-09/en.md) | [AI日報：Kimi Code開源編碼代理升級；蘋果正面迴應 iOS 27 AI …](daily/2026-06-09/tw.md) | [AI日報：Kimi Codeオープンソースコードエージェントのアップグレード；ア…](daily/2026-06-09/ja.md) |
-| **2026-06-08** | [AI日报：微信开放平台发布AI生态接入指引；月之暗面再融资20亿美元；ChatG…](daily/2026-06-08/zh.md) | [AI Daily: WeChat Open Platform Releases …](daily/2026-06-08/en.md) | [AI日報：微信開放平臺發佈AI生態接入指引；月之暗面再融資20億美元；ChatG…](daily/2026-06-08/tw.md) | [AI日報：微信オープンプラットフォームがAIエコシステム接続指針を発表；Moon…](daily/2026-06-08/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
