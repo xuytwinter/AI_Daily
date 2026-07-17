@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-17** | [AI日报：开源模型Kimi K3登场；Google Vids引入Gemini O…](daily/2026-07-17/zh.md) | [AI Daily: Open Source Model Kimi K3 Make…](daily/2026-07-17/en.md) | [AI日報：開源模型Kimi K3登場；Google Vids引入Gemini O…](daily/2026-07-17/tw.md) | [AIニュース：オープンソースモデルKimi K3登場；Google VidsにG…](daily/2026-07-17/ja.md) |
 | **2026-07-16** | [AI日报：MiniMax Code 2.0桌面端发布；Kimi K3模型预热视频…](daily/2026-07-16/zh.md) | [AI Daily: MiniMax Code 2.0 Desktop Versi…](daily/2026-07-16/en.md) | [AI日報：MiniMax Code 2.0桌面端發佈；Kimi K3模型預熱視頻…](daily/2026-07-16/tw.md) | [AI日報：MiniMax Code 2.0デスクトップ版リリース；Kimi K3…](daily/2026-07-16/ja.md) |
 | **2026-07-15** | [AI日报：豆包千问同日下线智能体功能；GPT-5.6Sol被曝自主删除用户数据库…](daily/2026-07-15/zh.md) | [AI Daily: DouBao and QianWen Discontinue…](daily/2026-07-15/en.md) | [AI日報：豆包千問同日下線智能體功能；GPT-5.6Sol被曝自主刪除用戶數據庫…](daily/2026-07-15/tw.md) | [AI日報：ドウボー・ワンウェンが同日にスマートエージェント機能を終了；GPT-5…](daily/2026-07-15/ja.md) |
 | **2026-07-14** | [AI日报：混元发布HyOCR-1.5；PixVerse完成4.39亿美元融资；商…](daily/2026-07-14/zh.md) | [AI Daily: Hengyuan Releases HyOCR-1.5; P…](daily/2026-07-14/en.md) | [AI日報：混元發佈HyOCR-1.5；PixVerse完成4.39億美元融資；商…](daily/2026-07-14/tw.md) | [AI日報：フンユアンがHyOCR-1.5をリリース；PixVerseが4億390…](daily/2026-07-14/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-13** | [AI日报：高德问店上线AI能力开放调用；大众点评严打AI灌水评论；Kimi将发行…](daily/2026-06-13/zh.md) | [AI Daily: Gaode Wenda Launches AI Capabi…](daily/2026-06-13/en.md) | [AI日報：高德問店上線AI能力開放調用；大衆點評嚴打AI灌水評論；Kimi將發行…](daily/2026-06-13/tw.md) | [AI日報：高徳問店にAI機能の開放呼び出し機能が登場；大衆評論はAIによるインフ…](daily/2026-06-13/ja.md) |
 | **2026-06-12** | [AI日报：高德问店上线AI能力开放调用；大众点评严打AI灌水评论；Kimi将发行…](daily/2026-06-12/zh.md) | [AI Daily: Gaode Wenda Launches AI Capabi…](daily/2026-06-12/en.md) | [AI日報：高德問店上線AI能力開放調用；大衆點評嚴打AI灌水評論；Kimi將發行…](daily/2026-06-12/tw.md) | [AI日報：高徳問店にAI機能の開放呼び出し機能が登場；大衆評論はAIによるインフ…](daily/2026-06-12/ja.md) |
 | **2026-06-11** | [AI日报：小米开源AI编程助手MiMo Code；京东MALL首批人形机器人上岗…](daily/2026-06-11/zh.md) | [AI Daily: Xiaomi Opensources AI Coding A…](daily/2026-06-11/en.md) | [AI日報：小米開源AI編程助手MiMo Code；京東MALL首批人形機器人上崗…](daily/2026-06-11/tw.md) | [AI日報：小米がAIプログラミングアシスタントMiMo Codeをオープンソース…](daily/2026-06-11/ja.md) |
-| **2026-06-10** | [AI日报：美图秀秀入局微信AI生态：千问发布全周期高考志愿填报Agent；美团 …](daily/2026-06-10/zh.md) | [AI Daily: Meitu ShowShow Enters WeChat A…](daily/2026-06-10/en.md) | [AI日報：美圖秀秀入局微信AI生態：千問發佈全週期高考志願填報Agent；美團 …](daily/2026-06-10/tw.md) | [AI日報：ミートゥーシューシュで微信のAIエコシステムに参入。Qwenは全期間の…](daily/2026-06-10/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
