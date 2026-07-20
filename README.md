@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-20** | [AI日报：千问3.8模型将发布；字节发布Seed Audio 1.0；面壁智能开…](daily/2026-07-20/zh.md) | [AI Daily: Qwen 3.8 Model to Be Released;…](daily/2026-07-20/en.md) | [AI日報：千問3.8模型將發佈；字節發佈Seed Audio 1.0；面壁智能開…](daily/2026-07-20/tw.md) | [AI日報：千問3.8モデルがリリース予定；バイチューブがSeed Audio 1…](daily/2026-07-20/ja.md) |
 | **2026-07-18** | [AI日报：开源模型Kimi K3登场；Google Vids引入Gemini O…](daily/2026-07-18/zh.md) | [AI Daily: Open Source Model Kimi K3 Make…](daily/2026-07-18/en.md) | [AI日報：開源模型Kimi K3登場；Google Vids引入Gemini O…](daily/2026-07-18/tw.md) | [AIニュース：オープンソースモデルKimi K3登場；Google VidsにG…](daily/2026-07-18/ja.md) |
 | **2026-07-17** | [AI日报：开源模型Kimi K3登场；Google Vids引入Gemini O…](daily/2026-07-17/zh.md) | [AI Daily: Open Source Model Kimi K3 Make…](daily/2026-07-17/en.md) | [AI日報：開源模型Kimi K3登場；Google Vids引入Gemini O…](daily/2026-07-17/tw.md) | [AIニュース：オープンソースモデルKimi K3登場；Google VidsにG…](daily/2026-07-17/ja.md) |
 | **2026-07-16** | [AI日报：MiniMax Code 2.0桌面端发布；Kimi K3模型预热视频…](daily/2026-07-16/zh.md) | [AI Daily: MiniMax Code 2.0 Desktop Versi…](daily/2026-07-16/en.md) | [AI日報：MiniMax Code 2.0桌面端發佈；Kimi K3模型預熱視頻…](daily/2026-07-16/tw.md) | [AI日報：MiniMax Code 2.0デスクトップ版リリース；Kimi K3…](daily/2026-07-16/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-16** | [AI日报：字节发布Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/zh.md) | [AI Daily: ByteDance Launches Seedance 2.…](daily/2026-06-16/en.md) | [AI日報：字節發佈Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/tw.md) | [AI日報：バイツーがSeedance 2.0 Miniを発表；Kimi 2.7 …](daily/2026-06-16/ja.md) |
 | **2026-06-15** | [AI日报：豆包上线任务模式；元宝正式打通ima公开知识库；智谱GLM-5. 2 …](daily/2026-06-15/zh.md) | [AI Daily: DouBao Launches Task Mode; Yua…](daily/2026-06-15/en.md) | [AI日報：豆包上線任務模式；元寶正式打通ima公開知識庫；智譜GLM-5. 2 …](daily/2026-06-15/tw.md) | [AI日報：ドウパオがタスクモードをリリース；ヤオバオがIMA公開知識ベースと統合…](daily/2026-06-15/ja.md) |
 | **2026-06-13** | [AI日报：高德问店上线AI能力开放调用；大众点评严打AI灌水评论；Kimi将发行…](daily/2026-06-13/zh.md) | [AI Daily: Gaode Wenda Launches AI Capabi…](daily/2026-06-13/en.md) | [AI日報：高德問店上線AI能力開放調用；大衆點評嚴打AI灌水評論；Kimi將發行…](daily/2026-06-13/tw.md) | [AI日報：高徳問店にAI機能の開放呼び出し機能が登場；大衆評論はAIによるインフ…](daily/2026-06-13/ja.md) |
-| **2026-06-12** | [AI日报：高德问店上线AI能力开放调用；大众点评严打AI灌水评论；Kimi将发行…](daily/2026-06-12/zh.md) | [AI Daily: Gaode Wenda Launches AI Capabi…](daily/2026-06-12/en.md) | [AI日報：高德問店上線AI能力開放調用；大衆點評嚴打AI灌水評論；Kimi將發行…](daily/2026-06-12/tw.md) | [AI日報：高徳問店にAI機能の開放呼び出し機能が登場；大衆評論はAIによるインフ…](daily/2026-06-12/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
