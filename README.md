@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-23** | [AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼…](daily/2026-07-23/zh.md) | [AI Daily: Tencent Cloud Launches CodeBud…](daily/2026-07-23/en.md) | [AI日報：騰訊雲推出 CodeBuddy NPC；北京拋出智能體新政十策；三星眼…](daily/2026-07-23/tw.md) | [AI日報：テンセントクラウドがCodeBuddy NPCをリリース；北京がスマー…](daily/2026-07-23/ja.md) |
 | **2026-07-22** | [AI日报：谷歌发布 Gemini 3.6 Flash；小红书大模型IMO满分夺金…](daily/2026-07-22/zh.md) | [AI Daily: Google Launches Gemini 3.6 Fla…](daily/2026-07-22/en.md) | [AI日報：谷歌發佈 Gemini 3.6 Flash；小紅書大模型IMO滿分奪金…](daily/2026-07-22/tw.md) | [AI日報：グーグルがGemini 3.6 Flashを発表；小紅書の大規模モデル…](daily/2026-07-22/ja.md) |
 | **2026-07-21** | [AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-…](daily/2026-07-21/zh.md) | [AI Daily: Tencent Huan Yuan Launches Res…](daily/2026-07-21/en.md) | [AI日報：騰訊混元發佈科研智能體Hyra-1.0；阿里發佈Qwen-Image-…](daily/2026-07-21/tw.md) | [AI日報：テンセント・フンユアンが研究用スマートエージェントHyra-1.0を発…](daily/2026-07-21/ja.md) |
 | **2026-07-20** | [AI日报：千问3.8模型将发布；字节发布Seed Audio 1.0；面壁智能开…](daily/2026-07-20/zh.md) | [AI Daily: Qwen 3.8 Model to Be Released;…](daily/2026-07-20/en.md) | [AI日報：千問3.8模型將發佈；字節發佈Seed Audio 1.0；面壁智能開…](daily/2026-07-20/tw.md) | [AI日報：千問3.8モデルがリリース予定；バイチューブがSeed Audio 1…](daily/2026-07-20/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-19** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-19/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-19/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-19/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-19/ja.md) |
 | **2026-06-18** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-18/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-18/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-18/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-18/ja.md) |
 | **2026-06-17** | [AI日报：微信支付推出“AI专属卡“；小米龙虾MiMo Claw正式版发布;智谱…](daily/2026-06-17/zh.md) | [AI Daily: WeChat Pay Launches AI Dedicat…](daily/2026-06-17/en.md) | [AI日報：微信支付推出“AI專屬卡“；小米龍蝦MiMo Claw正式版發佈;智譜…](daily/2026-06-17/tw.md) | [AI日報：微信支払いがAI専用カードを発表；小米のロブタMiMo Claw正式版…](daily/2026-06-17/ja.md) |
-| **2026-06-16** | [AI日报：字节发布Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/zh.md) | [AI Daily: ByteDance Launches Seedance 2.…](daily/2026-06-16/en.md) | [AI日報：字節發佈Seedance 2.0 Mini；Kimi 2.7 Code…](daily/2026-06-16/tw.md) | [AI日報：バイツーがSeedance 2.0 Miniを発表；Kimi 2.7 …](daily/2026-06-16/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
