@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-24** | [AI日报：黑森林实验室放出Flux3；Claude Opus现已支持语音模式；快…](daily/2026-07-24/zh.md) | [AI Daily: Black Forest Lab Releases Flux…](daily/2026-07-24/en.md) | [AI日報：黑森林實驗室放出Flux3；Claude Opus現已支持語音模式；快…](daily/2026-07-24/tw.md) | [AI日報：ブラックフォレストラボがFlux3をリリース；Claude Opusは…](daily/2026-07-24/ja.md) |
 | **2026-07-23** | [AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼…](daily/2026-07-23/zh.md) | [AI Daily: Tencent Cloud Launches CodeBud…](daily/2026-07-23/en.md) | [AI日報：騰訊雲推出 CodeBuddy NPC；北京拋出智能體新政十策；三星眼…](daily/2026-07-23/tw.md) | [AI日報：テンセントクラウドがCodeBuddy NPCをリリース；北京がスマー…](daily/2026-07-23/ja.md) |
 | **2026-07-22** | [AI日报：谷歌发布 Gemini 3.6 Flash；小红书大模型IMO满分夺金…](daily/2026-07-22/zh.md) | [AI Daily: Google Launches Gemini 3.6 Fla…](daily/2026-07-22/en.md) | [AI日報：谷歌發佈 Gemini 3.6 Flash；小紅書大模型IMO滿分奪金…](daily/2026-07-22/tw.md) | [AI日報：グーグルがGemini 3.6 Flashを発表；小紅書の大規模モデル…](daily/2026-07-22/ja.md) |
 | **2026-07-21** | [AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-…](daily/2026-07-21/zh.md) | [AI Daily: Tencent Huan Yuan Launches Res…](daily/2026-07-21/en.md) | [AI日報：騰訊混元發佈科研智能體Hyra-1.0；阿里發佈Qwen-Image-…](daily/2026-07-21/tw.md) | [AI日報：テンセント・フンユアンが研究用スマートエージェントHyra-1.0を発…](daily/2026-07-21/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-22** | [AI日报：阿里发布HappyHorse 1.1；字节豆包灰测网约车服务；三星12…](daily/2026-06-22/zh.md) | [AI Daily: Alibaba Launches HappyHorse 1.…](daily/2026-06-22/en.md) | [AI日報：阿里發佈HappyHorse 1.1；字節豆包灰測網約車服務；三星12…](daily/2026-06-22/tw.md) | [AI日報：アリババがHappyHorse 1.1を発表；字節跳動のドウボーがタク…](daily/2026-06-22/ja.md) |
 | **2026-06-19** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-19/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-19/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-19/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-19/ja.md) |
 | **2026-06-18** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-18/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-18/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-18/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-18/ja.md) |
-| **2026-06-17** | [AI日报：微信支付推出“AI专属卡“；小米龙虾MiMo Claw正式版发布;智谱…](daily/2026-06-17/zh.md) | [AI Daily: WeChat Pay Launches AI Dedicat…](daily/2026-06-17/en.md) | [AI日報：微信支付推出“AI專屬卡“；小米龍蝦MiMo Claw正式版發佈;智譜…](daily/2026-06-17/tw.md) | [AI日報：微信支払いがAI専用カードを発表；小米のロブタMiMo Claw正式版…](daily/2026-06-17/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
