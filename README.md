@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-25** | [AI日报：黑森林实验室放出Flux3；Claude Opus现已支持语音模式；快…](daily/2026-07-25/zh.md) | [AI Daily: Black Forest Lab Releases Flux…](daily/2026-07-25/en.md) | [AI日報：黑森林實驗室放出Flux3；Claude Opus現已支持語音模式；快…](daily/2026-07-25/tw.md) | [AI日報：ブラックフォレストラボがFlux3をリリース；Claude Opusは…](daily/2026-07-25/ja.md) |
 | **2026-07-24** | [AI日报：黑森林实验室放出Flux3；Claude Opus现已支持语音模式；快…](daily/2026-07-24/zh.md) | [AI Daily: Black Forest Lab Releases Flux…](daily/2026-07-24/en.md) | [AI日報：黑森林實驗室放出Flux3；Claude Opus現已支持語音模式；快…](daily/2026-07-24/tw.md) | [AI日報：ブラックフォレストラボがFlux3をリリース；Claude Opusは…](daily/2026-07-24/ja.md) |
 | **2026-07-23** | [AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼…](daily/2026-07-23/zh.md) | [AI Daily: Tencent Cloud Launches CodeBud…](daily/2026-07-23/en.md) | [AI日報：騰訊雲推出 CodeBuddy NPC；北京拋出智能體新政十策；三星眼…](daily/2026-07-23/tw.md) | [AI日報：テンセントクラウドがCodeBuddy NPCをリリース；北京がスマー…](daily/2026-07-23/ja.md) |
 | **2026-07-22** | [AI日报：谷歌发布 Gemini 3.6 Flash；小红书大模型IMO满分夺金…](daily/2026-07-22/zh.md) | [AI Daily: Google Launches Gemini 3.6 Fla…](daily/2026-07-22/en.md) | [AI日報：谷歌發佈 Gemini 3.6 Flash；小紅書大模型IMO滿分奪金…](daily/2026-07-22/tw.md) | [AI日報：グーグルがGemini 3.6 Flashを発表；小紅書の大規模モデル…](daily/2026-07-22/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-23** | [AI日报：火山引擎发布豆包Seedance2.5等模型；生数Vidu Q3上线华…](daily/2026-06-23/zh.md) | [AI Daily: Volcano Engine launches Doubao…](daily/2026-06-23/en.md) | [AI日報：火山引擎發佈豆包Seedance2.5等模型；生數Vidu Q3上線華…](daily/2026-06-23/tw.md) | [AI日報：ボルカノエンジンがドウバオSeedance2.5などモデルを公開；シャ…](daily/2026-06-23/ja.md) |
 | **2026-06-22** | [AI日报：阿里发布HappyHorse 1.1；字节豆包灰测网约车服务；三星12…](daily/2026-06-22/zh.md) | [AI Daily: Alibaba Launches HappyHorse 1.…](daily/2026-06-22/en.md) | [AI日報：阿里發佈HappyHorse 1.1；字節豆包灰測網約車服務；三星12…](daily/2026-06-22/tw.md) | [AI日報：アリババがHappyHorse 1.1を発表；字節跳動のドウボーがタク…](daily/2026-06-22/ja.md) |
 | **2026-06-19** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-19/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-19/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-19/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-19/ja.md) |
-| **2026-06-18** | [AI日报：通义开源首个统一科学大模型LOGOS、AI情感陪伴App妙时宣布停运；…](daily/2026-06-18/zh.md) | [AI Daily: Tongyi Opensources Its First U…](daily/2026-06-18/en.md) | [AI日報：通義開源首個統一科學大模型LOGOS、AI情感陪伴App妙時宣佈停運；…](daily/2026-06-18/tw.md) | [AI日報：通義が初めての統一科学大モデルLOGOSをオープンソース化、AI感情パ…](daily/2026-06-18/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
