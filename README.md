@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-07-30** | [AI日报：火山引擎上线豆包搜索开放服务；WorkBuddy上线人机双写；Open…](daily/2026-07-30/zh.md) | [AI Daily: Volc Engine Launches Doubao Se…](daily/2026-07-30/en.md) | [AI日報：火山引擎上線豆包搜索開放服務；WorkBuddy上線人機雙寫；Open…](daily/2026-07-30/tw.md) | [AI日報：ボルカノエンジンがドウバオ検索オープンサービスをリリース；WorkBu…](daily/2026-07-30/ja.md) |
 | **2026-07-29** | [AI日报：Fish Audio发布S2.1Pro实时对话语音模型；Grok4.6…](daily/2026-07-29/zh.md) | [AI Daily: Fish Audio launches the S2.1Pr…](daily/2026-07-29/en.md) | [AI日報：Fish Audio發佈S2.1Pro實時對話語音模型；Grok4.6…](daily/2026-07-29/tw.md) | [AI日報：Fish AudioがS2.1Proリアルタイム対話音声モデルを発表；…](daily/2026-07-29/ja.md) |
 | **2026-07-28** | [AI日报：Kimi K3登顶全球最大开源模型；小度AI手表Fit开售；我国启动大…](daily/2026-07-28/zh.md) | [AI Daily: Kimi K3 Tops the World's Large…](daily/2026-07-28/en.md) | [AI日報：Kimi K3登頂全球最大開源模型；小度AI手錶Fit開售；我國啓動大…](daily/2026-07-28/tw.md) | [AI日報：Kimi K3が世界最大のオープンソースモデルをトップに；小度のAI腕…](daily/2026-07-28/ja.md) |
 | **2026-07-27** | [AI日报：千问办公悄然开启内测；Suno上线高级音轨分离功能；Midjourne…](daily/2026-07-27/zh.md) | [AI Daily: Qwen Office Begins Internal Te…](daily/2026-07-27/en.md) | [AI日報：千問辦公悄然開啓內測；Suno上線高級音軌分離功能；Midjourne…](daily/2026-07-27/tw.md) | [AI日報：千問オフィスが静かに内線を開始；Sunoが上級音軌分離機能をリリース；…](daily/2026-07-27/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-06-27** | [AI日报：苹果Xcode 26.6正式发布；美团“小店有AI”行动落地北京；Op…](daily/2026-06-27/zh.md) | [AI Daily: Apple Xcode 26.6 Released Offi…](daily/2026-06-27/en.md) | [AI日報：蘋果Xcode 26.6正式發佈；美團“小店有AI”行動落地北京；Op…](daily/2026-06-27/tw.md) | [AI日報：アップルXcode 26.6が正式リリース；メイドゥー・ショップにAI…](daily/2026-06-27/ja.md) |
 | **2026-06-26** | [AI日报：苹果Xcode 26.6正式发布；美团“小店有AI”行动落地北京；Op…](daily/2026-06-26/zh.md) | [AI Daily: Apple Xcode 26.6 Released Offi…](daily/2026-06-26/en.md) | [AI日報：蘋果Xcode 26.6正式發佈；美團“小店有AI”行動落地北京；Op…](daily/2026-06-26/tw.md) | [AI日報：アップルXcode 26.6が正式リリース；メイドゥー・ショップにAI…](daily/2026-06-26/ja.md) |
 | **2026-06-25** | [AI日报：iOS 27支持自由切换ChatGPT；百度文心网站全面扩容；Goog…](daily/2026-06-25/zh.md) | [AI Daily: iOS 27 Supports Free Switching…](daily/2026-06-25/en.md) | [AI日報：iOS 27支持自由切換ChatGPT；百度文心網站全面擴容；Goog…](daily/2026-06-25/tw.md) | [AI日報：iOS 27がChatGPTの自由な切り替えをサポート；バイドゥー文心…](daily/2026-06-25/ja.md) |
-| **2026-06-24** | [AI日报：豆包音频生成模型1.0发布；企业微信内测AI Agent大圆；Curs…](daily/2026-06-24/zh.md) | [AI Daily: DouBao Audio Generation Model …](daily/2026-06-24/en.md) | [AI日報：豆包音頻生成模型1.0發佈；企業微信內測AI Agent大圓；Curs…](daily/2026-06-24/tw.md) | [AI日報：ドウバオ音声生成モデル1.0公開；企業WeChatでAIエージェントの…](daily/2026-06-24/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
