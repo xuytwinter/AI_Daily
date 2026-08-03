@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-03** | [AI日报：Qwen3.8-Max上线；DeepSeek V4-Flash API…](daily/2026-08-03/zh.md) | [AI Daily: Qwen3.8-Max Launches; DeepSeek…](daily/2026-08-03/en.md) | [AI日報：Qwen3.8-Max上線；DeepSeek V4-Flash API…](daily/2026-08-03/tw.md) | [AI日報：Qwen3.8-Maxがリリース；DeepSeek V4-Flash …](daily/2026-08-03/ja.md) |
 | **2026-08-01** | [AI日报：MiniMax发布全模态模型H3；Seedance 2.5发布，30秒…](daily/2026-08-01/zh.md) | [AI Daily: MiniMax Launches Full-modal Mo…](daily/2026-08-01/en.md) | [AI日報：MiniMax發佈全模態模型H3；Seedance 2.5發佈，30秒…](daily/2026-08-01/tw.md) | [AI日報：MiniMaxが全モードモデルH3を発表；Seedance 2.5が3…](daily/2026-08-01/ja.md) |
 | **2026-07-31** | [AI日报：MiniMax发布全模态模型H3；Seedance 2.5发布，30秒…](daily/2026-07-31/zh.md) | [AI Daily: MiniMax Launches Full-modal Mo…](daily/2026-07-31/en.md) | [AI日報：MiniMax發佈全模態模型H3；Seedance 2.5發佈，30秒…](daily/2026-07-31/tw.md) | [AI日報：MiniMaxが全モードモデルH3を発表；Seedance 2.5が3…](daily/2026-07-31/ja.md) |
 | **2026-07-30** | [AI日报：火山引擎上线豆包搜索开放服务；WorkBuddy上线人机双写；Open…](daily/2026-07-30/zh.md) | [AI Daily: Volc Engine Launches Doubao Se…](daily/2026-07-30/en.md) | [AI日報：火山引擎上線豆包搜索開放服務；WorkBuddy上線人機雙寫；Open…](daily/2026-07-30/tw.md) | [AI日報：ボルカノエンジンがドウバオ検索オープンサービスをリリース；WorkBu…](daily/2026-07-30/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-01** | [AI日报：谷歌推新图片模型Nano Banana 2 Lite；Claude S…](daily/2026-07-01/zh.md) | [AI Daily: Google Launches New Image Mode…](daily/2026-07-01/en.md) | [AI日報：谷歌推新圖片模型Nano Banana 2 Lite；Claude S…](daily/2026-07-01/tw.md) | [AIニュース：グーグルが新画像モデル「Nano Banana 2 Lite」を発…](daily/2026-07-01/ja.md) |
 | **2026-06-30** | [AI日报：美团发布LongCat-2.0；小红书 RedKnot 推理引擎开源；…](daily/2026-06-30/zh.md) | [AI Daily: Meituan Releases LongCat-2.0; …](daily/2026-06-30/en.md) | [AI日報：美團發佈LongCat-2.0；小紅書 RedKnot 推理引擎開源；…](daily/2026-06-30/tw.md) | [AI日報：美团がLongCat-2.0を発表；小紅書のRedKnot推論エンジン…](daily/2026-06-30/ja.md) |
 | **2026-06-29** | — | [AI Daily: DouBao Tests Social Features; …](daily/2026-06-29/en.md) | [AI日報：豆包內測社交功能；高德內測“袋馬”入局AI編程；新浪VibeThink…](daily/2026-06-29/tw.md) | [AI日報：ドウバオがソーシャル機能のテストを開始；高徳が袋馬（マース）をAIプロ…](daily/2026-06-29/ja.md) |
-| **2026-06-27** | [AI日报：苹果Xcode 26.6正式发布；美团“小店有AI”行动落地北京；Op…](daily/2026-06-27/zh.md) | [AI Daily: Apple Xcode 26.6 Released Offi…](daily/2026-06-27/en.md) | [AI日報：蘋果Xcode 26.6正式發佈；美團“小店有AI”行動落地北京；Op…](daily/2026-06-27/tw.md) | [AI日報：アップルXcode 26.6が正式リリース；メイドゥー・ショップにAI…](daily/2026-06-27/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
