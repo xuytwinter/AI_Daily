@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-06** | [AI日报：DeepSeek将上调API价格；美图上线AI平台MeituHub；小…](daily/2026-08-06/zh.md) | [AI Daily: DeepSeek to Increase API Price…](daily/2026-08-06/en.md) | [AI日報：DeepSeek將上調API價格；美圖上線AI平臺MeituHub；小…](daily/2026-08-06/tw.md) | [AI日報：DeepSeekがAPI価格を引き上げる；メイトゥがAIプラットフォー…](daily/2026-08-06/ja.md) |
 | **2026-08-05** | [AI日报：京东开源视频实时编辑模型；Qwen-Image-3.0上线；腾讯混元发…](daily/2026-08-05/zh.md) | [AI Daily: JD.com Opens Source Real-Time …](daily/2026-08-05/en.md) | [AI日報：京東開源視頻實時編輯模型；Qwen-Image-3.0上線；騰訊混元發…](daily/2026-08-05/tw.md) | [AI日報：京东がビデオリアルタイム編集モデルをオープンソース化；Qwen-Ima…](daily/2026-08-05/ja.md) |
 | **2026-08-04** | [AI日报：商汤甩出8B小钢炮 U1.5-Lite-Preview；MiniMax…](daily/2026-08-04/zh.md) | [AI Daily: SenseTime Unveils 8B Mini Gun …](daily/2026-08-04/en.md) | [AI日報：商湯甩出8B小鋼炮 U1.5-Lite-Preview；MiniMax…](daily/2026-08-04/tw.md) | [AI日報：商湯が8Bの軽量モデルU1.5-Lite-Previewを発表；Min…](daily/2026-08-04/ja.md) |
 | **2026-08-03** | [AI日报：Qwen3.8-Max上线；DeepSeek V4-Flash API…](daily/2026-08-03/zh.md) | [AI Daily: Qwen3.8-Max Launches; DeepSeek…](daily/2026-08-03/en.md) | [AI日報：Qwen3.8-Max上線；DeepSeek V4-Flash API…](daily/2026-08-03/tw.md) | [AI日報：Qwen3.8-Maxがリリース；DeepSeek V4-Flash …](daily/2026-08-03/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-04** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-04/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-04/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-04/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-04/ja.md) |
 | **2026-07-03** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-03/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-03/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-03/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-03/ja.md) |
 | **2026-07-02** | [AI日报：可灵AI将完成30亿美元融资；支付宝AI生活助理“阿宝”正式公测；Ki…](daily/2026-07-02/zh.md) | [AI Daily: Kler AI Completes $3 Billion F…](daily/2026-07-02/en.md) | [AI日報：可靈AI將完成30億美元融資；支付寶AI生活助理“阿寶”正式公測；Ki…](daily/2026-07-02/tw.md) | [AI日報：クレアAIが30億ドルの資金調達を完了；支付宝のAIライフアシスタント…](daily/2026-07-02/ja.md) |
-| **2026-07-01** | [AI日报：谷歌推新图片模型Nano Banana 2 Lite；Claude S…](daily/2026-07-01/zh.md) | [AI Daily: Google Launches New Image Mode…](daily/2026-07-01/en.md) | [AI日報：谷歌推新圖片模型Nano Banana 2 Lite；Claude S…](daily/2026-07-01/tw.md) | [AIニュース：グーグルが新画像モデル「Nano Banana 2 Lite」を発…](daily/2026-07-01/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
