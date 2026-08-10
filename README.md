@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-10** | [AI日报：xAI Imagine Image2.0上线；豆包推荐酒店也开始收费；…](daily/2026-08-10/zh.md) | [AI Daily: xAI Imagine Image2.0 Launches;…](daily/2026-08-10/en.md) | [AI日報：xAI Imagine Image2.0上線；豆包推薦酒店也開始收費；…](daily/2026-08-10/tw.md) | [AI日報：xAI Imagine Image2.0がリリース；ドウバオがホテルの…](daily/2026-08-10/ja.md) |
 | **2026-08-08** | [AI日报：OpenAI取消ChatGPT文本聊天限制；小米智能摄像机4 Max …](daily/2026-08-08/zh.md) | [AI Daily: OpenAI Removes ChatGPT Text Ch…](daily/2026-08-08/en.md) | [AI日報：OpenAI取消ChatGPT文本聊天限制；小米智能攝像機4 Max …](daily/2026-08-08/tw.md) | [AI日報：OpenAIがChatGPTのテキストチャット制限を解除；小米スマート…](daily/2026-08-08/ja.md) |
 | **2026-08-07** | [AI日报：OpenAI取消ChatGPT文本聊天限制；小米智能摄像机4 Max …](daily/2026-08-07/zh.md) | [AI Daily: OpenAI Removes ChatGPT Text Ch…](daily/2026-08-07/en.md) | [AI日報：OpenAI取消ChatGPT文本聊天限制；小米智能攝像機4 Max …](daily/2026-08-07/tw.md) | [AI日報：OpenAIがChatGPTのテキストチャット制限を解除；小米スマート…](daily/2026-08-07/ja.md) |
 | **2026-08-06** | [AI日报：DeepSeek将上调API价格；美图上线AI平台MeituHub；小…](daily/2026-08-06/zh.md) | [AI Daily: DeepSeek to Increase API Price…](daily/2026-08-06/en.md) | [AI日報：DeepSeek將上調API價格；美圖上線AI平臺MeituHub；小…](daily/2026-08-06/tw.md) | [AI日報：DeepSeekがAPI価格を引き上げる；メイトゥがAIプラットフォー…](daily/2026-08-06/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-08** | [AI日报：Claude Cowork登陆网页和手机端；美国放行GPT-5.6；M…](daily/2026-07-08/zh.md) | [AI Daily: Claude Cowork Launches on Web …](daily/2026-07-08/en.md) | [AI日報：Claude Cowork登陸網頁和手機端；美國放行GPT-5.6；M…](daily/2026-07-08/tw.md) | [AI日報：Claude Coworkがウェブとモバイル端末に登場；米国がGPT-…](daily/2026-07-08/ja.md) |
 | **2026-07-07** | [AI日报：Claude Code更新v2.1.202版本；支付宝AI开放平台开启…](daily/2026-07-07/zh.md) | [AI Daily: Claude Code Updates to Version…](daily/2026-07-07/en.md) | [AI日報：Claude Code更新v2.1.202版本；支付寶AI開放平臺開啓…](daily/2026-07-07/tw.md) | [AI日報：Claude Codeがバージョン2.1.202にアップデート；支付宝…](daily/2026-07-07/ja.md) |
 | **2026-07-06** | [AI日报：豆包、千问下线AI拟人化功能；腾讯混元Hy3发布；Gemini3.5 …](daily/2026-07-06/zh.md) | [AI Daily: DouBao and Qianwen Discontinue…](daily/2026-07-06/en.md) | [AI日報：豆包、千問下線AI擬人化功能；騰訊混元Hy3發佈；Gemini3.5 …](daily/2026-07-06/tw.md) | [AI日報：ドウボー、チンウェンがAIキャラクター化機能を終了；テンセント・混元H…](daily/2026-07-06/ja.md) |
-| **2026-07-04** | [AI日报：阿里巴巴内部“反向禁用”Claude；微软纯网页版Aion系统曝光；C…](daily/2026-07-04/zh.md) | [AI Daily: Alibaba Internally Reverses Di…](daily/2026-07-04/en.md) | [AI日報：阿里巴巴內部“反向禁用”Claude；微軟純網頁版Aion系統曝光；C…](daily/2026-07-04/tw.md) | [AI日報：アリババが社内からClaudeを逆に無効化；マイクロソフトの純粋なウェ…](daily/2026-07-04/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
