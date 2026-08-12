@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-12** | [AI日报：SpaceXAI 推出Grok Bot；OpenAI发布Linux版C…](daily/2026-08-12/zh.md) | [AI Daily: SpaceXAI Launches Grok Bot; Op…](daily/2026-08-12/en.md) | [AI日報：SpaceXAI 推出Grok Bot；OpenAI發佈Linux版C…](daily/2026-08-12/tw.md) | [AI日報：SpaceXAIがGrok Botを発表；OpenAIがLinux版C…](daily/2026-08-12/ja.md) |
 | **2026-08-11** | [AI日报：豆包接入抖音来客酒店交易；千问上线AI硬件开放平台；腾讯开源全新浏览器…](daily/2026-08-11/zh.md) | [AI Daily: DouBao Integrates with Douyin …](daily/2026-08-11/en.md) | [AI日報：豆包接入抖音來客酒店交易；千問上線AI硬件開放平臺；騰訊開源全新瀏覽器…](daily/2026-08-11/tw.md) | [AI日報：ドウボウが抖音来客のホテル取引に統合；千問がAIハードウェアオープンプ…](daily/2026-08-11/ja.md) |
 | **2026-08-10** | [AI日报：xAI Imagine Image2.0上线；豆包推荐酒店也开始收费；…](daily/2026-08-10/zh.md) | [AI Daily: xAI Imagine Image2.0 Launches;…](daily/2026-08-10/en.md) | [AI日報：xAI Imagine Image2.0上線；豆包推薦酒店也開始收費；…](daily/2026-08-10/tw.md) | [AI日報：xAI Imagine Image2.0がリリース；ドウバオがホテルの…](daily/2026-08-10/ja.md) |
 | **2026-08-08** | [AI日报：OpenAI取消ChatGPT文本聊天限制；小米智能摄像机4 Max …](daily/2026-08-08/zh.md) | [AI Daily: OpenAI Removes ChatGPT Text Ch…](daily/2026-08-08/en.md) | [AI日報：OpenAI取消ChatGPT文本聊天限制；小米智能攝像機4 Max …](daily/2026-08-08/tw.md) | [AI日報：OpenAIがChatGPTのテキストチャット制限を解除；小米スマート…](daily/2026-08-08/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-10** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-10/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-10/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-10/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-10/ja.md) |
 | **2026-07-09** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-09/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-09/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-09/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-09/ja.md) |
 | **2026-07-08** | [AI日报：Claude Cowork登陆网页和手机端；美国放行GPT-5.6；M…](daily/2026-07-08/zh.md) | [AI Daily: Claude Cowork Launches on Web …](daily/2026-07-08/en.md) | [AI日報：Claude Cowork登陸網頁和手機端；美國放行GPT-5.6；M…](daily/2026-07-08/tw.md) | [AI日報：Claude Coworkがウェブとモバイル端末に登場；米国がGPT-…](daily/2026-07-08/ja.md) |
-| **2026-07-07** | [AI日报：Claude Code更新v2.1.202版本；支付宝AI开放平台开启…](daily/2026-07-07/zh.md) | [AI Daily: Claude Code Updates to Version…](daily/2026-07-07/en.md) | [AI日報：Claude Code更新v2.1.202版本；支付寶AI開放平臺開啓…](daily/2026-07-07/tw.md) | [AI日報：Claude Codeがバージョン2.1.202にアップデート；支付宝…](daily/2026-07-07/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
