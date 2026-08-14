@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-14** | [AI日报：MiniMax发布Music3音乐模型；百度GenFlow官宣中文名“…](daily/2026-08-14/zh.md) | [AI Daily: MiniMax Launches Music3 Music …](daily/2026-08-14/en.md) | [AI日報：MiniMax發佈Music3音樂模型；百度GenFlow官宣中文名“…](daily/2026-08-14/tw.md) | [AI日報：MiniMaxがMusic3音楽モデルをリリース；百度GenFlowが…](daily/2026-08-14/ja.md) |
 | **2026-08-13** | [AI日报：DeepSeek V4 Pro正式版亮相；小红书或推进“AI导购”功能…](daily/2026-08-13/zh.md) | [AI Daily: DeepSeek V4 Pro Final Version …](daily/2026-08-13/en.md) | [AI日報：DeepSeek V4 Pro正式版亮相；小紅書或推進“AI導購”功能…](daily/2026-08-13/tw.md) | [AI日報：DeepSeek V4 Proの正式版が登場；小紅書がAI販売ガイド機…](daily/2026-08-13/ja.md) |
 | **2026-08-12** | [AI日报：SpaceXAI 推出Grok Bot；OpenAI发布Linux版C…](daily/2026-08-12/zh.md) | [AI Daily: SpaceXAI Launches Grok Bot; Op…](daily/2026-08-12/en.md) | [AI日報：SpaceXAI 推出Grok Bot；OpenAI發佈Linux版C…](daily/2026-08-12/tw.md) | [AI日報：SpaceXAIがGrok Botを発表；OpenAIがLinux版C…](daily/2026-08-12/ja.md) |
 | **2026-08-11** | [AI日报：豆包接入抖音来客酒店交易；千问上线AI硬件开放平台；腾讯开源全新浏览器…](daily/2026-08-11/zh.md) | [AI Daily: DouBao Integrates with Douyin …](daily/2026-08-11/en.md) | [AI日報：豆包接入抖音來客酒店交易；千問上線AI硬件開放平臺；騰訊開源全新瀏覽器…](daily/2026-08-11/tw.md) | [AI日報：ドウボウが抖音来客のホテル取引に統合；千問がAIハードウェアオープンプ…](daily/2026-08-11/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-14** | [AI日报：混元发布HyOCR-1.5；PixVerse完成4.39亿美元融资；商…](daily/2026-07-14/zh.md) | [AI Daily: Hengyuan Releases HyOCR-1.5; P…](daily/2026-07-14/en.md) | [AI日報：混元發佈HyOCR-1.5；PixVerse完成4.39億美元融資；商…](daily/2026-07-14/tw.md) | [AI日報：フンユアンがHyOCR-1.5をリリース；PixVerseが4億390…](daily/2026-07-14/ja.md) |
 | **2026-07-13** | [AI日报：抖音电商将豆包纳入抖店结算序列;Claude Fable5访问权限延长…](daily/2026-07-13/zh.md) | [AI Daily: Douyin E-commerce Integrates D…](daily/2026-07-13/en.md) | [AI日報：抖音電商將豆包納入抖店結算序列;Claude Fable5訪問權限延長…](daily/2026-07-13/tw.md) | [AIニュース：抖音电商は豆包をドットストアの決済フローに組み込み；Claude …](daily/2026-07-13/ja.md) |
 | **2026-07-10** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-10/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-10/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-10/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-10/ja.md) |
-| **2026-07-09** | [AI日报：SpaceXAI推出“Opus级”大模型Grok4.5;阶跃星辰首款A…](daily/2026-07-09/zh.md) | [AI Daily: SpaceXAI Launches Opus-Level L…](daily/2026-07-09/en.md) | [AI日報：SpaceXAI推出“Opus級”大模型Grok4.5;階躍星辰首款A…](daily/2026-07-09/tw.md) | [AI日報：SpaceXAIがOpus級の大規模モデルGrok4.5を発表；段階の…](daily/2026-07-09/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
