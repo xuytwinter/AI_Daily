@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-19** | [AI日报：智谱GLM-5.3 API上线；腾讯吐司上线App上架能力；千问APP…](daily/2026-08-19/zh.md) | [AI Daily: GLM-5.3 API by Zhipu Released;…](daily/2026-08-19/en.md) | [AI日報：智譜GLM-5.3 API上線；騰訊吐司上線App上架能力；千問APP…](daily/2026-08-19/tw.md) | [AIニュース：Zhipu GLM-5.3 APIのリリース；Tencent Tu…](daily/2026-08-19/ja.md) |
 | **2026-08-18** | [AI日报：阿里发布HappyShrimp 1.0；企业微信5.0.10打通AI …](daily/2026-08-18/zh.md) | [AI Daily: Alibaba Launches HappyShrimp 1…](daily/2026-08-18/en.md) | [AI日報：阿里發佈HappyShrimp 1.0；企業微信5.0.10打通AI …](daily/2026-08-18/tw.md) | [AI日報：アリババがHappyShrimp 1.0を発表；企業微信5.0.10が…](daily/2026-08-18/ja.md) |
 | **2026-08-17** | [AI日报：DeepSeek API峰谷定价上线；美团全员养虾曾日烧千万；贾跃亭宣…](daily/2026-08-17/zh.md) | [AI Daily: DeepSeek API Peak-Valley Prici…](daily/2026-08-17/en.md) | [AI日報：DeepSeek API峯谷定價上線；美團全員養蝦曾日燒千萬；賈躍亭宣…](daily/2026-08-17/tw.md) | [AI日報：DeepSeek APIのピーク・トラフ価格制度が導入；メイドゥー社員…](daily/2026-08-17/ja.md) |
 | **2026-08-15** | [AI日报：MiniMax发布Music3音乐模型；百度GenFlow官宣中文名“…](daily/2026-08-15/zh.md) | [AI Daily: MiniMax Launches Music3 Music …](daily/2026-08-15/en.md) | [AI日報：MiniMax發佈Music3音樂模型；百度GenFlow官宣中文名“…](daily/2026-08-15/tw.md) | [AI日報：MiniMaxがMusic3音楽モデルをリリース；百度GenFlowが…](daily/2026-08-15/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-18** | [AI日报：开源模型Kimi K3登场；Google Vids引入Gemini O…](daily/2026-07-18/zh.md) | [AI Daily: Open Source Model Kimi K3 Make…](daily/2026-07-18/en.md) | [AI日報：開源模型Kimi K3登場；Google Vids引入Gemini O…](daily/2026-07-18/tw.md) | [AIニュース：オープンソースモデルKimi K3登場；Google VidsにG…](daily/2026-07-18/ja.md) |
 | **2026-07-17** | [AI日报：开源模型Kimi K3登场；Google Vids引入Gemini O…](daily/2026-07-17/zh.md) | [AI Daily: Open Source Model Kimi K3 Make…](daily/2026-07-17/en.md) | [AI日報：開源模型Kimi K3登場；Google Vids引入Gemini O…](daily/2026-07-17/tw.md) | [AIニュース：オープンソースモデルKimi K3登場；Google VidsにG…](daily/2026-07-17/ja.md) |
 | **2026-07-16** | [AI日报：MiniMax Code 2.0桌面端发布；Kimi K3模型预热视频…](daily/2026-07-16/zh.md) | [AI Daily: MiniMax Code 2.0 Desktop Versi…](daily/2026-07-16/en.md) | [AI日報：MiniMax Code 2.0桌面端發佈；Kimi K3模型預熱視頻…](daily/2026-07-16/tw.md) | [AI日報：MiniMax Code 2.0デスクトップ版リリース；Kimi K3…](daily/2026-07-16/ja.md) |
-| **2026-07-15** | [AI日报：豆包千问同日下线智能体功能；GPT-5.6Sol被曝自主删除用户数据库…](daily/2026-07-15/zh.md) | [AI Daily: DouBao and QianWen Discontinue…](daily/2026-07-15/en.md) | [AI日報：豆包千問同日下線智能體功能；GPT-5.6Sol被曝自主刪除用戶數據庫…](daily/2026-07-15/tw.md) | [AI日報：ドウボー・ワンウェンが同日にスマートエージェント機能を終了；GPT-5…](daily/2026-07-15/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
