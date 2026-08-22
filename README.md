@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-22** | [AI日报：商汤开源8B轻量多模态大模型；腾讯新一代大模型Hy4将发布；Grok …](daily/2026-08-22/zh.md) | [AI Daily: SenseTime Opensources 8B Light…](daily/2026-08-22/en.md) | [AI日報：商湯開源8B輕量多模態大模型；騰訊新一代大模型Hy4將發佈；Grok …](daily/2026-08-22/tw.md) | [AI日報：商湯が8B軽量マルチモーダル大モデルをオープンソース公開；騰訊が新世代…](daily/2026-08-22/ja.md) |
 | **2026-08-21** | [AI日报：商汤开源8B轻量多模态大模型；腾讯新一代大模型Hy4将发布；Grok …](daily/2026-08-21/zh.md) | [AI Daily: SenseTime Opensources 8B Light…](daily/2026-08-21/en.md) | [AI日報：商湯開源8B輕量多模態大模型；騰訊新一代大模型Hy4將發佈；Grok …](daily/2026-08-21/tw.md) | [AI日報：商湯が8B軽量マルチモーダル大モデルをオープンソース公開；騰訊が新世代…](daily/2026-08-21/ja.md) |
 | **2026-08-20** | [AI日报：小米新一代人形机器人惊艳亮相；可灵AI商业化收入同比增长超200%；O…](daily/2026-08-20/zh.md) | [AI Daily: Xiaomi's New Generation Humano…](daily/2026-08-20/en.md) | [AI日報：小米新一代人形機器人驚豔亮相；可靈AI商業化收入同比增長超200%；O…](daily/2026-08-20/tw.md) | [AIニュース：小米の新しい人形ロボットが注目を集める；KillerAIの商業収益…](daily/2026-08-20/ja.md) |
 | **2026-08-19** | [AI日报：智谱GLM-5.3 API上线；腾讯吐司上线App上架能力；千问APP…](daily/2026-08-19/zh.md) | [AI Daily: GLM-5.3 API by Zhipu Released;…](daily/2026-08-19/en.md) | [AI日報：智譜GLM-5.3 API上線；騰訊吐司上線App上架能力；千問APP…](daily/2026-08-19/tw.md) | [AIニュース：Zhipu GLM-5.3 APIのリリース；Tencent Tu…](daily/2026-08-19/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-22** | [AI日报：谷歌发布 Gemini 3.6 Flash；小红书大模型IMO满分夺金…](daily/2026-07-22/zh.md) | [AI Daily: Google Launches Gemini 3.6 Fla…](daily/2026-07-22/en.md) | [AI日報：谷歌發佈 Gemini 3.6 Flash；小紅書大模型IMO滿分奪金…](daily/2026-07-22/tw.md) | [AI日報：グーグルがGemini 3.6 Flashを発表；小紅書の大規模モデル…](daily/2026-07-22/ja.md) |
 | **2026-07-21** | [AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-…](daily/2026-07-21/zh.md) | [AI Daily: Tencent Huan Yuan Launches Res…](daily/2026-07-21/en.md) | [AI日報：騰訊混元發佈科研智能體Hyra-1.0；阿里發佈Qwen-Image-…](daily/2026-07-21/tw.md) | [AI日報：テンセント・フンユアンが研究用スマートエージェントHyra-1.0を発…](daily/2026-07-21/ja.md) |
 | **2026-07-20** | [AI日报：千问3.8模型将发布；字节发布Seed Audio 1.0；面壁智能开…](daily/2026-07-20/zh.md) | [AI Daily: Qwen 3.8 Model to Be Released;…](daily/2026-07-20/en.md) | [AI日報：千問3.8模型將發佈；字節發佈Seed Audio 1.0；面壁智能開…](daily/2026-07-20/tw.md) | [AI日報：千問3.8モデルがリリース予定；バイチューブがSeed Audio 1…](daily/2026-07-20/ja.md) |
-| **2026-07-18** | [AI日报：开源模型Kimi K3登场；Google Vids引入Gemini O…](daily/2026-07-18/zh.md) | [AI Daily: Open Source Model Kimi K3 Make…](daily/2026-07-18/en.md) | [AI日報：開源模型Kimi K3登場；Google Vids引入Gemini O…](daily/2026-07-18/tw.md) | [AIニュース：オープンソースモデルKimi K3登場；Google VidsにG…](daily/2026-07-18/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
