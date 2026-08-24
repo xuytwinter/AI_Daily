@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-24** | [AI日报：万相Wan3.0模型上线；小米发布玄戒O3等AI芯片；第二届世界人形机…](daily/2026-08-24/zh.md) | [AI Daily: Wan3.0 Model Launches; Xiaomi …](daily/2026-08-24/en.md) | [AI日報：萬相Wan3.0模型上線；小米發佈玄戒O3等AI芯片；第二屆世界人形機…](daily/2026-08-24/tw.md) | [AIニュース：万相Wan3.0モデルがリリース；小米が玄戒O3などのAIチップを…](daily/2026-08-24/ja.md) |
 | **2026-08-22** | [AI日报：商汤开源8B轻量多模态大模型；腾讯新一代大模型Hy4将发布；Grok …](daily/2026-08-22/zh.md) | [AI Daily: SenseTime Opensources 8B Light…](daily/2026-08-22/en.md) | [AI日報：商湯開源8B輕量多模態大模型；騰訊新一代大模型Hy4將發佈；Grok …](daily/2026-08-22/tw.md) | [AI日報：商湯が8B軽量マルチモーダル大モデルをオープンソース公開；騰訊が新世代…](daily/2026-08-22/ja.md) |
 | **2026-08-21** | [AI日报：商汤开源8B轻量多模态大模型；腾讯新一代大模型Hy4将发布；Grok …](daily/2026-08-21/zh.md) | [AI Daily: SenseTime Opensources 8B Light…](daily/2026-08-21/en.md) | [AI日報：商湯開源8B輕量多模態大模型；騰訊新一代大模型Hy4將發佈；Grok …](daily/2026-08-21/tw.md) | [AI日報：商湯が8B軽量マルチモーダル大モデルをオープンソース公開；騰訊が新世代…](daily/2026-08-21/ja.md) |
 | **2026-08-20** | [AI日报：小米新一代人形机器人惊艳亮相；可灵AI商业化收入同比增长超200%；O…](daily/2026-08-20/zh.md) | [AI Daily: Xiaomi's New Generation Humano…](daily/2026-08-20/en.md) | [AI日報：小米新一代人形機器人驚豔亮相；可靈AI商業化收入同比增長超200%；O…](daily/2026-08-20/tw.md) | [AIニュース：小米の新しい人形ロボットが注目を集める；KillerAIの商業収益…](daily/2026-08-20/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-23** | [AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼…](daily/2026-07-23/zh.md) | [AI Daily: Tencent Cloud Launches CodeBud…](daily/2026-07-23/en.md) | [AI日報：騰訊雲推出 CodeBuddy NPC；北京拋出智能體新政十策；三星眼…](daily/2026-07-23/tw.md) | [AI日報：テンセントクラウドがCodeBuddy NPCをリリース；北京がスマー…](daily/2026-07-23/ja.md) |
 | **2026-07-22** | [AI日报：谷歌发布 Gemini 3.6 Flash；小红书大模型IMO满分夺金…](daily/2026-07-22/zh.md) | [AI Daily: Google Launches Gemini 3.6 Fla…](daily/2026-07-22/en.md) | [AI日報：谷歌發佈 Gemini 3.6 Flash；小紅書大模型IMO滿分奪金…](daily/2026-07-22/tw.md) | [AI日報：グーグルがGemini 3.6 Flashを発表；小紅書の大規模モデル…](daily/2026-07-22/ja.md) |
 | **2026-07-21** | [AI日报：腾讯混元发布科研智能体Hyra-1.0；阿里发布Qwen-Image-…](daily/2026-07-21/zh.md) | [AI Daily: Tencent Huan Yuan Launches Res…](daily/2026-07-21/en.md) | [AI日報：騰訊混元發佈科研智能體Hyra-1.0；阿里發佈Qwen-Image-…](daily/2026-07-21/tw.md) | [AI日報：テンセント・フンユアンが研究用スマートエージェントHyra-1.0を発…](daily/2026-07-21/ja.md) |
-| **2026-07-20** | [AI日报：千问3.8模型将发布；字节发布Seed Audio 1.0；面壁智能开…](daily/2026-07-20/zh.md) | [AI Daily: Qwen 3.8 Model to Be Released;…](daily/2026-07-20/en.md) | [AI日報：千問3.8模型將發佈；字節發佈Seed Audio 1.0；面壁智能開…](daily/2026-07-20/tw.md) | [AI日報：千問3.8モデルがリリース予定；バイチューブがSeed Audio 1…](daily/2026-07-20/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
