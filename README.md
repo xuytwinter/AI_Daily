@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-27** | [AI日报：千问办公首发上线Qwen3.8-Flash；智谱开源多模态大模型GLM…](daily/2026-08-27/zh.md) | [AI Daily: Qwen3.8-Flash Launched for Off…](daily/2026-08-27/en.md) | [AI日報：千問辦公首發上線Qwen3.8-Flash；智譜開源多模態大模型GLM…](daily/2026-08-27/tw.md) | [AI日報：千問オフィスがQwen3.8-Flashを初公開；智譜がマルチモーダル…](daily/2026-08-27/ja.md) |
 | **2026-08-26** | [AI日报：即梦AI推出影视厂牌即梦片场；DeepSeek前7月营收4.75亿元；…](daily/2026-08-26/zh.md) | [AI Daily: Jiemeng AI Launches Film Brand…](daily/2026-08-26/en.md) | [AI日報：即夢AI推出影視廠牌即夢片場；DeepSeek前7月營收4.75億元；…](daily/2026-08-26/tw.md) | [AI日報：ジムーAIが映画ブランド「ジムー・シーン」を立ち上げ；DeepSeek…](daily/2026-08-26/ja.md) |
 | **2026-08-25** | [AI日报：字节发布AI办公智能体豆包工作；ChatGPT上线自定义贴纸功能；谷歌…](daily/2026-08-25/zh.md) | [AI Daily: ByteDance Launches AI Office I…](daily/2026-08-25/en.md) | [AI日報：字節發佈AI辦公智能體豆包工作；ChatGPT上線自定義貼紙功能；谷歌…](daily/2026-08-25/tw.md) | [AI日報：バイツはAIオフィススマートエージェント「ドゥバオワーク」を発表；Ch…](daily/2026-08-25/ja.md) |
 | **2026-08-24** | [AI日报：万相Wan3.0模型上线；小米发布玄戒O3等AI芯片；第二届世界人形机…](daily/2026-08-24/zh.md) | [AI Daily: Wan3.0 Model Launches; Xiaomi …](daily/2026-08-24/en.md) | [AI日報：萬相Wan3.0模型上線；小米發佈玄戒O3等AI芯片；第二屆世界人形機…](daily/2026-08-24/tw.md) | [AIニュース：万相Wan3.0モデルがリリース；小米が玄戒O3などのAIチップを…](daily/2026-08-24/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-27** | [AI日报：千问办公悄然开启内测；Suno上线高级音轨分离功能；Midjourne…](daily/2026-07-27/zh.md) | [AI Daily: Qwen Office Begins Internal Te…](daily/2026-07-27/en.md) | [AI日報：千問辦公悄然開啓內測；Suno上線高級音軌分離功能；Midjourne…](daily/2026-07-27/tw.md) | [AI日報：千問オフィスが静かに内線を開始；Sunoが上級音軌分離機能をリリース；…](daily/2026-07-27/ja.md) |
 | **2026-07-25** | [AI日报：黑森林实验室放出Flux3；Claude Opus现已支持语音模式；快…](daily/2026-07-25/zh.md) | [AI Daily: Black Forest Lab Releases Flux…](daily/2026-07-25/en.md) | [AI日報：黑森林實驗室放出Flux3；Claude Opus現已支持語音模式；快…](daily/2026-07-25/tw.md) | [AI日報：ブラックフォレストラボがFlux3をリリース；Claude Opusは…](daily/2026-07-25/ja.md) |
 | **2026-07-24** | [AI日报：黑森林实验室放出Flux3；Claude Opus现已支持语音模式；快…](daily/2026-07-24/zh.md) | [AI Daily: Black Forest Lab Releases Flux…](daily/2026-07-24/en.md) | [AI日報：黑森林實驗室放出Flux3；Claude Opus現已支持語音模式；快…](daily/2026-07-24/tw.md) | [AI日報：ブラックフォレストラボがFlux3をリリース；Claude Opusは…](daily/2026-07-24/ja.md) |
-| **2026-07-23** | [AI日报：腾讯云推出 CodeBuddy NPC；北京抛出智能体新政十策；三星眼…](daily/2026-07-23/zh.md) | [AI Daily: Tencent Cloud Launches CodeBud…](daily/2026-07-23/en.md) | [AI日報：騰訊雲推出 CodeBuddy NPC；北京拋出智能體新政十策；三星眼…](daily/2026-07-23/tw.md) | [AI日報：テンセントクラウドがCodeBuddy NPCをリリース；北京がスマー…](daily/2026-07-23/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
