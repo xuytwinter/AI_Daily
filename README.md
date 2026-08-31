@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-08-31** | [AI日报：科大讯飞将发星火X2.5；混元Hy4preview Agent能力大升…](daily/2026-08-31/zh.md) | [AI Daily: iFLYTEK to Release Spark X2.5;…](daily/2026-08-31/en.md) | [AI日報：科大訊飛將發星火X2.5；混元Hy4preview Agent能力大升…](daily/2026-08-31/tw.md) | [AI日報：科大訊飛が星火X2.5を発表；混元Hy4preview Agentの能…](daily/2026-08-31/ja.md) |
 | **2026-08-29** | [AI日报：腾讯发布开源旗舰模型Hy4preview；Midjourney V8.…](daily/2026-08-29/zh.md) | [AI Daily: Tencent Releases Open-Source F…](daily/2026-08-29/en.md) | [AI日報：騰訊發佈開源旗艦模型Hy4preview；Midjourney V8.…](daily/2026-08-29/tw.md) | [AIニュース：テンセントがオープンソースの旗艦モデルHy4previewを発表；…](daily/2026-08-29/ja.md) |
 | **2026-08-28** | [AI日报：腾讯发布开源旗舰模型Hy4preview；Midjourney V8.…](daily/2026-08-28/zh.md) | [AI Daily: Tencent Releases Open-Source F…](daily/2026-08-28/en.md) | [AI日報：騰訊發佈開源旗艦模型Hy4preview；Midjourney V8.…](daily/2026-08-28/tw.md) | [AIニュース：テンセントがオープンソースの旗艦モデルHy4previewを発表；…](daily/2026-08-28/ja.md) |
 | **2026-08-27** | [AI日报：千问办公首发上线Qwen3.8-Flash；智谱开源多模态大模型GLM…](daily/2026-08-27/zh.md) | [AI Daily: Qwen3.8-Flash Launched for Off…](daily/2026-08-27/en.md) | [AI日報：千問辦公首發上線Qwen3.8-Flash；智譜開源多模態大模型GLM…](daily/2026-08-27/tw.md) | [AI日報：千問オフィスがQwen3.8-Flashを初公開；智譜がマルチモーダル…](daily/2026-08-27/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-30** | [AI日报：火山引擎上线豆包搜索开放服务；WorkBuddy上线人机双写；Open…](daily/2026-07-30/zh.md) | [AI Daily: Volc Engine Launches Doubao Se…](daily/2026-07-30/en.md) | [AI日報：火山引擎上線豆包搜索開放服務；WorkBuddy上線人機雙寫；Open…](daily/2026-07-30/tw.md) | [AI日報：ボルカノエンジンがドウバオ検索オープンサービスをリリース；WorkBu…](daily/2026-07-30/ja.md) |
 | **2026-07-29** | [AI日报：Fish Audio发布S2.1Pro实时对话语音模型；Grok4.6…](daily/2026-07-29/zh.md) | [AI Daily: Fish Audio launches the S2.1Pr…](daily/2026-07-29/en.md) | [AI日報：Fish Audio發佈S2.1Pro實時對話語音模型；Grok4.6…](daily/2026-07-29/tw.md) | [AI日報：Fish AudioがS2.1Proリアルタイム対話音声モデルを発表；…](daily/2026-07-29/ja.md) |
 | **2026-07-28** | [AI日报：Kimi K3登顶全球最大开源模型；小度AI手表Fit开售；我国启动大…](daily/2026-07-28/zh.md) | [AI Daily: Kimi K3 Tops the World's Large…](daily/2026-07-28/en.md) | [AI日報：Kimi K3登頂全球最大開源模型；小度AI手錶Fit開售；我國啓動大…](daily/2026-07-28/tw.md) | [AI日報：Kimi K3が世界最大のオープンソースモデルをトップに；小度のAI腕…](daily/2026-07-28/ja.md) |
-| **2026-07-27** | [AI日报：千问办公悄然开启内测；Suno上线高级音轨分离功能；Midjourne…](daily/2026-07-27/zh.md) | [AI Daily: Qwen Office Begins Internal Te…](daily/2026-07-27/en.md) | [AI日報：千問辦公悄然開啓內測；Suno上線高級音軌分離功能；Midjourne…](daily/2026-07-27/tw.md) | [AI日報：千問オフィスが静かに内線を開始；Sunoが上級音軌分離機能をリリース；…](daily/2026-07-27/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
