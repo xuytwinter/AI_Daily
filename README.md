@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-09-01** | [AI日报：DeepSeek首个视觉实验模型开源；Runway发布首个界面世界模型…](daily/2026-09-01/zh.md) | [AI Daily: DeepSeek's First Visual Experi…](daily/2026-09-01/en.md) | [AI日報：DeepSeek首個視覺實驗模型開源；Runway發佈首個界面世界模型…](daily/2026-09-01/tw.md) | [AI日報：DeepSeekが初めてのビジュアル実験モデルをオープンソース化；Ru…](daily/2026-09-01/ja.md) |
 | **2026-08-31** | [AI日报：科大讯飞将发星火X2.5；混元Hy4preview Agent能力大升…](daily/2026-08-31/zh.md) | [AI Daily: iFLYTEK to Release Spark X2.5;…](daily/2026-08-31/en.md) | [AI日報：科大訊飛將發星火X2.5；混元Hy4preview Agent能力大升…](daily/2026-08-31/tw.md) | [AI日報：科大訊飛が星火X2.5を発表；混元Hy4preview Agentの能…](daily/2026-08-31/ja.md) |
 | **2026-08-29** | [AI日报：腾讯发布开源旗舰模型Hy4preview；Midjourney V8.…](daily/2026-08-29/zh.md) | [AI Daily: Tencent Releases Open-Source F…](daily/2026-08-29/en.md) | [AI日報：騰訊發佈開源旗艦模型Hy4preview；Midjourney V8.…](daily/2026-08-29/tw.md) | [AIニュース：テンセントがオープンソースの旗艦モデルHy4previewを発表；…](daily/2026-08-29/ja.md) |
 | **2026-08-28** | [AI日报：腾讯发布开源旗舰模型Hy4preview；Midjourney V8.…](daily/2026-08-28/zh.md) | [AI Daily: Tencent Releases Open-Source F…](daily/2026-08-28/en.md) | [AI日報：騰訊發佈開源旗艦模型Hy4preview；Midjourney V8.…](daily/2026-08-28/tw.md) | [AIニュース：テンセントがオープンソースの旗艦モデルHy4previewを発表；…](daily/2026-08-28/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-07-31** | [AI日报：MiniMax发布全模态模型H3；Seedance 2.5发布，30秒…](daily/2026-07-31/zh.md) | [AI Daily: MiniMax Launches Full-modal Mo…](daily/2026-07-31/en.md) | [AI日報：MiniMax發佈全模態模型H3；Seedance 2.5發佈，30秒…](daily/2026-07-31/tw.md) | [AI日報：MiniMaxが全モードモデルH3を発表；Seedance 2.5が3…](daily/2026-07-31/ja.md) |
 | **2026-07-30** | [AI日报：火山引擎上线豆包搜索开放服务；WorkBuddy上线人机双写；Open…](daily/2026-07-30/zh.md) | [AI Daily: Volc Engine Launches Doubao Se…](daily/2026-07-30/en.md) | [AI日報：火山引擎上線豆包搜索開放服務；WorkBuddy上線人機雙寫；Open…](daily/2026-07-30/tw.md) | [AI日報：ボルカノエンジンがドウバオ検索オープンサービスをリリース；WorkBu…](daily/2026-07-30/ja.md) |
 | **2026-07-29** | [AI日报：Fish Audio发布S2.1Pro实时对话语音模型；Grok4.6…](daily/2026-07-29/zh.md) | [AI Daily: Fish Audio launches the S2.1Pr…](daily/2026-07-29/en.md) | [AI日報：Fish Audio發佈S2.1Pro實時對話語音模型；Grok4.6…](daily/2026-07-29/tw.md) | [AI日報：Fish AudioがS2.1Proリアルタイム対話音声モデルを発表；…](daily/2026-07-29/ja.md) |
-| **2026-07-28** | [AI日报：Kimi K3登顶全球最大开源模型；小度AI手表Fit开售；我国启动大…](daily/2026-07-28/zh.md) | [AI Daily: Kimi K3 Tops the World's Large…](daily/2026-07-28/en.md) | [AI日報：Kimi K3登頂全球最大開源模型；小度AI手錶Fit開售；我國啓動大…](daily/2026-07-28/tw.md) | [AI日報：Kimi K3が世界最大のオープンソースモデルをトップに；小度のAI腕…](daily/2026-07-28/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
