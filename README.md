@@ -46,6 +46,7 @@ python scripts/update_readme.py
 <!-- BEGIN_INDEX -->
 | 日期 Date | 简体中文 | English | 繁體中文 | 日本語 |
 | --- | --- | --- | --- | --- |
+| **2026-09-03** | [AI日报：天猫正式上线AI空间站；Gemini 3.8 Flash发布；百度基础…](daily/2026-09-03/zh.md) | [AI Daily: Tmall Launches AI Space Statio…](daily/2026-09-03/en.md) | [AI日報：天貓正式上線AI空間站；Gemini 3.8 Flash發佈；百度基礎…](daily/2026-09-03/tw.md) | [AI日報：天猫がAIスペースステーションを正式にリリース；Gemini 3.8 …](daily/2026-09-03/ja.md) |
 | **2026-09-02** | [AI日报：World Labs推多模态世界模型Atlas；WorkBuddy宣布…](daily/2026-09-02/zh.md) | [AI Daily: World Labs Launches Multimodal…](daily/2026-09-02/en.md) | [AI日報：World Labs推多模態世界模型Atlas；WorkBuddy宣佈…](daily/2026-09-02/tw.md) | [AI日報：World Labsがマルチモーダル世界モデルAtlasを発表；Wor…](daily/2026-09-02/ja.md) |
 | **2026-09-01** | [AI日报：DeepSeek首个视觉实验模型开源；Runway发布首个界面世界模型…](daily/2026-09-01/zh.md) | [AI Daily: DeepSeek's First Visual Experi…](daily/2026-09-01/en.md) | [AI日報：DeepSeek首個視覺實驗模型開源；Runway發佈首個界面世界模型…](daily/2026-09-01/tw.md) | [AI日報：DeepSeekが初めてのビジュアル実験モデルをオープンソース化；Ru…](daily/2026-09-01/ja.md) |
 | **2026-08-31** | [AI日报：科大讯飞将发星火X2.5；混元Hy4preview Agent能力大升…](daily/2026-08-31/zh.md) | [AI Daily: iFLYTEK to Release Spark X2.5;…](daily/2026-08-31/en.md) | [AI日報：科大訊飛將發星火X2.5；混元Hy4preview Agent能力大升…](daily/2026-08-31/tw.md) | [AI日報：科大訊飛が星火X2.5を発表；混元Hy4preview Agentの能…](daily/2026-08-31/ja.md) |
@@ -75,7 +76,6 @@ python scripts/update_readme.py
 | **2026-08-03** | [AI日报：Qwen3.8-Max上线；DeepSeek V4-Flash API…](daily/2026-08-03/zh.md) | [AI Daily: Qwen3.8-Max Launches; DeepSeek…](daily/2026-08-03/en.md) | [AI日報：Qwen3.8-Max上線；DeepSeek V4-Flash API…](daily/2026-08-03/tw.md) | [AI日報：Qwen3.8-Maxがリリース；DeepSeek V4-Flash …](daily/2026-08-03/ja.md) |
 | **2026-08-01** | [AI日报：MiniMax发布全模态模型H3；Seedance 2.5发布，30秒…](daily/2026-08-01/zh.md) | [AI Daily: MiniMax Launches Full-modal Mo…](daily/2026-08-01/en.md) | [AI日報：MiniMax發佈全模態模型H3；Seedance 2.5發佈，30秒…](daily/2026-08-01/tw.md) | [AI日報：MiniMaxが全モードモデルH3を発表；Seedance 2.5が3…](daily/2026-08-01/ja.md) |
 | **2026-07-31** | [AI日报：MiniMax发布全模态模型H3；Seedance 2.5发布，30秒…](daily/2026-07-31/zh.md) | [AI Daily: MiniMax Launches Full-modal Mo…](daily/2026-07-31/en.md) | [AI日報：MiniMax發佈全模態模型H3；Seedance 2.5發佈，30秒…](daily/2026-07-31/tw.md) | [AI日報：MiniMaxが全モードモデルH3を発表；Seedance 2.5が3…](daily/2026-07-31/ja.md) |
-| **2026-07-30** | [AI日报：火山引擎上线豆包搜索开放服务；WorkBuddy上线人机双写；Open…](daily/2026-07-30/zh.md) | [AI Daily: Volc Engine Launches Doubao Se…](daily/2026-07-30/en.md) | [AI日報：火山引擎上線豆包搜索開放服務；WorkBuddy上線人機雙寫；Open…](daily/2026-07-30/tw.md) | [AI日報：ボルカノエンジンがドウバオ検索オープンサービスをリリース；WorkBu…](daily/2026-07-30/ja.md) |
 <!-- END_INDEX -->
 
 ## License & 数据来源
